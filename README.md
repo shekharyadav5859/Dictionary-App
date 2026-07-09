@@ -50,7 +50,7 @@ Dictionary-App/
 
 **Shekhar Yadav**
 
-GitHub: https://github.com/YourGitHubUsername
+GitHub: https://github.com/shekharyadav5859
 
 ---
 
